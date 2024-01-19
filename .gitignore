@@ -22,6 +22,8 @@
 # User Data
 /saves
 /backups
+/downloads
+/emotes
 
 # Generated
 /.vscode
