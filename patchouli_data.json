@@ -1,0 +1,30 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "botania:lexicon": {
+      "viewedEntries": [
+        "botania:basics/flowers",
+        "botania:basics/pure_daisy",
+        "botania:basics/apothecary",
+        "botania:basics/wand",
+        "botania:basics/flower_bag",
+        "botania:mana/pool",
+        "botania:mana/intro",
+        "botania:generating_flowers/intro",
+        "botania:generating_flowers/hydroangeas",
+        "botania:generating_flowers/endoflame",
+        "botania:mana/spreader"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "ad_astra:astrodux": {
+      "viewedEntries": [
+        "ad_astra:the_first_launch/oxygen"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
+}

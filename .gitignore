@@ -1,0 +1,33 @@
+## Files
+/TrashSlotSaveState.json
+/usercache.json
+/usernamecache.json
+/servers.dat_old
+/rhino.local.properties
+/observable_announce
+/.curseclient
+
+## Folders
+
+/journeymap
+/armourers_workshop
+/local
+/blueprints
+
+# Logs
+*.log
+/logs
+/crash-reports
+
+# User Data
+/saves
+/backups
+
+# Generated
+/.vscode
+/.mixin.out
+/modernfix
+
+# manifest.json handled 
+/mods
+/resourcepacks

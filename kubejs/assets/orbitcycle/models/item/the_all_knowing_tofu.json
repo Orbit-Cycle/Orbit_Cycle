@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "orbitcycle:item/the_all_knowing_tofu"
+    }
+}
